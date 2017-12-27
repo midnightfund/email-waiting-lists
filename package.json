@@ -1,0 +1,15 @@
+{
+  "name": "email-waiting-lists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/client": "^6.1.4",
+    "@sendgrid/mail": "^6.1.4"
+  }
+}
